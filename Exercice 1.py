@@ -2,7 +2,7 @@
 """
 Created on Sat Oct  8 17:51:24 2016
 
-@author: Leonard
+@author: Leonard and Marvin
 """
 
 print("Small change again and again and again")
