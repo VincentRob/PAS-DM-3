@@ -7,3 +7,6 @@ Created on Sat Oct  8 17:51:24 2016
 
 print("Small change again and again and again")
 print("Hi Pachinus !")
+
+
+print("Test of pull request")
