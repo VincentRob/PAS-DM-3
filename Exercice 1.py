@@ -10,3 +10,6 @@ print("Hi Pachinus !")
 
 
 print("Test of pull request")
+
+
+print("Ceci est un test de modif de changement avant de fusionner avec la branche master")
